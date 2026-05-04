@@ -1,0 +1,24 @@
+{
+  "name": "GRIND — Advanced Training",
+  "short_name": "GRIND",
+  "description": "Advanced 5-day muscle building program with rest timer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%230a0a0f' rx='32'/><text x='50%' y='62%' font-family='serif' font-size='100' font-weight='bold' fill='%23e8ff47' text-anchor='middle' dominant-baseline='middle'>G</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%230a0a0f' rx='80'/><text x='50%' y='62%' font-family='serif' font-size='280' font-weight='bold' fill='%23e8ff47' text-anchor='middle' dominant-baseline='middle'>G</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
